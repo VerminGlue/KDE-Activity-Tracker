@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "verminglue81@gmail.com",
+                "Name": "VerminGlue"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A basic timer display for the panel.",
+        "Icon": "chronometer",
+        "Id": "com.example.myactivitytimer",
+        "Name": "My Activity Timer Baseline",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.2",
+        "Website": "https://github.com/VerminGlue/KDE-Activity-Tracker"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

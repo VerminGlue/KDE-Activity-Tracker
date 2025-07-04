@@ -7,7 +7,7 @@
                 "Name": "VerminGlue"
             }
         ],
-        "Category": "Utilities and timers",
+        "Category": "Utilities",
         "Description": "A basic timer of time spent in each activity.",
         "FormFactors": [
             "tablet",
@@ -15,7 +15,7 @@
             "desktop"
         ],
         "Icon": "chronometer",
-        "Id": "com.example.myactivitytimer",
+        "Id": "com.example.activitytimer",
         "License": "GNU General Public License v2.0 or later",
         "Name": "My Activity Timer",
         "Version": "0.2",
